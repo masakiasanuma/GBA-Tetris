@@ -1,0 +1,12 @@
+---
+:id: 16704026
+:submitters:
+- :name: Masaki Asanuma
+  :email: masakiasanuma@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-04-11 07:17:42.849098000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-04-11 00:17:42.849098000 Z
+:status: processed
+:score: 100.0
